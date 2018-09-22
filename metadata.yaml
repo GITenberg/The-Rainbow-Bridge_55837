@@ -1,0 +1,29 @@
+_repo: The-Rainbow-Bridge_55837
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Fox, Frances Margaret
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '2516'
+    url: http://www.gutenberg.org/2009/agents/2516
+  - agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+description: ''
+gutenberg_issued: '2017-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Rainbow Bridge
+url: http://www.gutenberg.org/ebooks/55837
